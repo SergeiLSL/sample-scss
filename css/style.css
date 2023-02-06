@@ -234,6 +234,12 @@ main {
   flex-basis: 33.333%;
 }
 
+p {
+  font-size: 24px;
+  color: red;
+  font-weight: 700;
+}
+
 .footer {
   padding-top: 46px;
   background: #a5cefc;
